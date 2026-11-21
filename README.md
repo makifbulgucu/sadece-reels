@@ -1,4 +1,4 @@
-# sfx-kutuphane-araclari
+# sadece-reels
 
 Satın aldığın ya da indirdiğin dağınık SFX paketlerini (yüzlerce klasör, aynı sesin mp3 ve wav hâli, paketin
 içinde tekrar eden dosyalar) düzenli bir video kurgu ses kütüphanesine aktaran beş küçük Python betiği.
